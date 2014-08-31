@@ -1,0 +1,29 @@
+<sim>
+<gravity>
+    <X>0</X>
+    <Y>-9.8</Y>
+    <Z>0</Z>
+</gravity>
+<timeStep> 0.02 </timeStep>
+<fps>24</fps>
+<mass>0.005</mass>
+<coeff>0.5</coeff>
+<coefr>0.5</coefr>
+<emitter>
+    <posX>0</posX>
+    <posY>0</posY>
+    <posZ>0</posZ>
+    <velX>0</velX>
+    <velY>0</velY>
+    <velZ>0</velZ>
+    <varX>0</varX>
+    <varY>0</varY>
+    <varZ>0</varZ>
+    <colR>1</colR>
+    <colG>1</colG>
+    <colB>1</colB>
+    <colA>1</colA>
+    <lifeExpectancy>4</lifeExpectancy>
+    <birthRate>50</birthRate> 
+</emitter>
+</sim>

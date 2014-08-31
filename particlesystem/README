@@ -1,0 +1,13 @@
+#Kaitlyn Li
+You copy header files from include folder that you created into install/include
+
+After you do do "make" inside build folder,you will create your library inside
+the build folder
+Then copy the library inside build folder into intall/lib
+
+
+You don't want to copy your source code into your install file
+
+You give people your libraries and header file which is located in the install folder
+
+To compile: go to particalViewer, type make
